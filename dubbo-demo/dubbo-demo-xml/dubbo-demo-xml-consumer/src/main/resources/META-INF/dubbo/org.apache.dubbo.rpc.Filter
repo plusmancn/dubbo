@@ -1,0 +1,2 @@
+a=org.apache.dubbo.demo.consumer.AFilter
+b=org.apache.dubbo.demo.consumer.BFilter
